@@ -141,11 +141,11 @@ export default function App() {
             <div className="p-6 border-b border-slate-200">
               <div className="flex items-center gap-3">
                 <div className="w-9 h-9 bg-indigo-600 rounded-xl flex items-center justify-center text-white font-black text-lg shadow-md shadow-indigo-100">
-                  U
+                  S
                 </div>
                 <div>
                   <h1 className="font-bold text-base tracking-tight text-slate-900 leading-none">StockReserv</h1>
-                  <span className="text-[10px] text-indigo-600 font-bold tracking-wider uppercase block mt-1">UNSA INGENIERÍA</span>
+                  <span className="text-[10px] text-indigo-600 font-bold tracking-wider uppercase block mt-1">Reserva equipos</span>
                 </div>
               </div>
             </div>
@@ -247,7 +247,7 @@ export default function App() {
               <div className="flex items-center gap-4 flex-1 min-w-0">
                 <span className="text-xs font-extrabold text-slate-700 bg-slate-50 border border-slate-150 px-3 py-1.5 rounded-xl flex items-center gap-1.5 select-none shrink-0">
                   <span className="w-2 h-2 bg-indigo-500 rounded-full animate-pulse"></span>
-                  Sistema de reservas
+                  Sistema de Reserva de Equipos
                 </span>
               </div>
 

@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Reservas de Equipos Informáticos",
+  "description": "Sistema de reserva de equipos informáticos con autenticación, inventario en tiempo real, calendario de disponibilidad y panel de control de operaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

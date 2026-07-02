@@ -228,7 +228,7 @@ export default function App() {
                   }`}
                 >
                   <BarChart3 className="w-4 h-4 shrink-0" />
-                  Reportes UNSA
+                  Reportes
                 </button>
               )}
             </nav>
@@ -442,7 +442,7 @@ export default function App() {
                         }`}
                       >
                         <BarChart3 className="w-4 h-4 shrink-0" />
-                        Reportes UNSA
+                        Reportes
                       </button>
                     )}
                   </nav>

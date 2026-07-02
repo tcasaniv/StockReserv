@@ -35,9 +35,9 @@ export const initialUsuarios: Usuario[] = [
   },
   {
     id_usuario: "usr-4",
-    nombres: "Sussy",
-    apellidos: "Mendivil Chavez",
-    correo: "smendivil@unsa.edu.pe",
+    nombres: "Jaime Nicanor",
+    apellidos: "Laime Quispe",
+    correo: "jlaime@unsa.edu.pe",
     contrasena: "123456",
     rol: UserRole.ESTUDIANTE,
     estado: "Activo"
